@@ -1,0 +1,137 @@
+[02:24:21] alt:V Server 14.44 (release)
+[02:24:21] Starting Test on 0.0.0.0:7788
+[02:24:21] Loading resource freeroam
+[02:24:21] Loading resource chat
+[02:24:21] Loaded resource chat
+[02:24:21] Loaded resource freeroam
+[02:24:21] Loading resource addon-map
+[02:24:22] Loaded resource addon-map
+[02:24:22] Loading resource altv-os-login
+[02:24:22] Loaded resource altv-os-login
+[02:24:22] Loading resource stat
+[02:24:22] Loaded resource stat
+[02:24:22] Loading resource ParkedVehicleSpawner
+[02:24:23] Loaded resource ParkedVehicleSpawner
+[02:24:23] Loading resource motel
+[02:24:23] Loaded resource motel
+[02:24:23] Loading resource garage
+[02:24:23] Loaded resource garage
+[02:24:23] Loading resource timer
+[02:24:23] Loaded resource timer
+[02:24:23] Loading resource pmenu
+[02:24:23] Player Menu Loaded
+[02:24:23] Loaded resource pmenu
+[02:24:23] Loading resource interface
+[02:24:23] Loaded resource interface
+[02:24:23] Loading resource ammunation
+[02:24:24] Loaded resource ammunation
+[02:24:24] Loading resource altv-os-nametags
+[02:24:24] Loaded resource altv-os-nametags
+[02:24:24] Loading resource Peds
+[02:24:24] Loaded resource Peds
+[02:24:24] Loading resource blip
+[02:24:24] Loaded resource blip
+[02:24:24] Loading resource LSC
+[02:24:24] LSC Loaded
+[02:24:24] Loaded resource LSC
+[02:24:24] Loading resource pointing
+[02:24:25] Loaded resource pointing
+[02:24:25] Loading resource property
+[02:24:25] Loaded resource property
+[02:24:25] Loading resource shop
+[02:24:26] Loaded resource shop
+[02:24:26] Loading resource pdm
+[02:24:26] Loaded resource pdm
+[02:24:26] Loading resource vendings
+[02:24:26] Loaded resource vendings
+[02:24:26] Loading resource job
+[02:24:26] Loaded resource job
+[02:24:26] Loading resource weed
+[02:24:26] IWeed Loaded
+[02:24:26] Loaded resource weed
+[02:24:26] Loading resource repo
+[02:24:27] Loaded resource repo
+[02:24:27] Loading resource races
+[02:24:27] Loaded resource races
+[02:24:27] Loading resource penegakhukum
+[02:24:27] Loaded resource penegakhukum
+[02:24:27] Loading resource voice
+[02:24:27] Loaded resource voice
+[02:24:27] Loading resource parkour
+[02:24:27] Loaded resource parkour
+[02:24:27] Loading resource robfleeca
+[02:24:28] Loaded resource robfleeca
+[02:24:28] Loading resource dispatch
+[02:24:28] Loaded resource dispatch
+[02:24:28] Loading resource lester
+[02:24:28] Loaded resource lester
+[02:24:28] Loading resource survival
+[02:24:28] Loaded resource survival
+[02:24:28] Loading resource addon-map-zoom
+[02:24:28] Loaded resource addon-map-zoom
+[02:24:28] Loading resource airport
+[02:24:28] Loaded resource airport
+[02:24:28] Loading resource casino
+[02:24:29] Loaded resource casino
+[02:24:29] Loading resource altv-sit
+[02:24:29] Loaded resource altv-sit
+[02:24:29] Loading resource ocnlamtmc17
+[02:24:29][Warning] Using .cfg files is discouraged, consider using the '--convert-config-format' commandline argument
+[02:24:29] Loaded resource ocnlamtmc17
+[02:24:29] Loading resource ocni422spe
+[02:24:29][Warning] Using .cfg files is discouraged, consider using the '--convert-config-format' commandline argument
+[02:24:29] Loaded resource ocni422spe
+[02:24:29] Loading resource ocnetrongt18
+[02:24:29][Warning] Using .cfg files is discouraged, consider using the '--convert-config-format' commandline argument
+[02:24:29] Loaded resource ocnetrongt18
+[02:24:29] Loading resource altv-os-chat
+[02:24:29][Warning] Using .cfg files is discouraged, consider using the '--convert-config-format' commandline argument
+[02:24:29] Loaded resource altv-os-chat
+[02:24:29] Required server permissions:
+[02:24:29] Optional server permissions:
+[02:24:29] Starting HTTP server on 0.0.0.0:7788
+[02:24:29] Main thread started (ThreadId: 5672)
+[02:24:29] VoicePacketProcess thread started (ThreadId: 6748)
+[02:24:29] Colshape thread started (ThreadId: 4512)
+[02:24:29] VoiceStreamer thread started (ThreadId: 4124)
+[02:24:29] EntityStreamer thread started (ThreadId: 1484)
+[02:24:29] Console thread started (ThreadId: 4752)
+[02:24:29] Sync thread started (ThreadId: 3040)
+[02:24:29] Network thread started (ThreadId: 4176)
+[02:24:29] Server started
+[02:26:58] Bindwin ready for job
+[02:28:12] Bindwin intro start
+[02:28:12] BindwinDEV  data updated  weapons
+[02:28:12] BindwinDEV  data updated  maleface
+[02:28:12] BindwinDEV  data updated  model
+[02:28:12] BindwinDEV  data updated  maleoutfits
+[02:29:37] Bindwin weapon buy 453432689
+[02:29:37] BindwinDEV  data updated  rank
+[02:29:37] BindwinDEV  data updated  maletops
+[02:29:37] BindwinDEV  data updated  malepants
+[02:29:37] BindwinDEV  data updated  maleshoes
+[02:29:37] BindwinDEV  data updated  weapons
+[02:31:20] Bindwin intro finished
+[02:31:20] BindwinDEV  data updated  defaulthouse
+[02:31:20] BindwinDEV  data updated  maleface
+[02:31:20] BindwinDEV  data updated  model
+[02:31:20] BindwinDEV  data updated  maleoutfits
+[02:31:20] BindwinDEV  data updated  maleprops
+[02:31:20] BindwinDEV  data updated  tattoo
+[02:31:20] BindwinDEV  data updated  intro
+[02:31:37] BindwinDEV  data updated  money
+[02:33:26] BindwinDEV  data updated  model
+[02:33:26] BindwinDEV  data updated  maleface
+[02:33:36] undefined
+[02:33:59] 724
+[02:39:32] 724
+[02:39:45] 825
+[02:42:20] 67
+[02:46:34] Bindwin deliver Weed got 20000
+[02:46:34] Bindwin ready for job
+[02:46:37] BindwinDEV  data updated  money
+[02:46:39] BindwinDEV  data updated  rank
+[02:47:57] 326
+[02:59:19] Bindwin has leaved the server becauseof timed out
+[03:09:55][Warning] ReceiveData() took: 51 ms, received events:  0 , packets sent:  0
+[03:45:02][Warning] resourceManager.Update() took: 53 ms
